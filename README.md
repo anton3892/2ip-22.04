@@ -5,3 +5,4 @@
 3) pip install tabulate  --proxy http://10.0.21.52:3128
 4) pip install prettytable  --proxy http://10.0.21.52:3128
 5) 
+https://cloud.mail.ru/public/uD8Z/ZDMPghkia
